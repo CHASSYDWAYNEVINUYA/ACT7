@@ -1,0 +1,54 @@
+h1 {font-family: 'Young Serif', serif;}
+a {margin-right: 25px;
+    text-decoration:none;
+    color: white; 
+    font: 22px;}
+h2 {font-family: 'Dela Gothic One', cursive;}
+  
+.HOMIE:hover {background-color: gold;
+    padding: 10px;}
+.CITS:hover {background-color: red;
+        padding: 10px;}
+.COES:hover {background-color: maroon;
+        padding: 10px;}
+.CTES:hover {background-color: blue;
+        padding: 10px;}
+
+p {background-color: darkgreen; 
+    padding: 15px; 
+    text-align: center;
+    border-top: 3px solid gold; 
+    border-bottom: 3px solid gold;
+    font-family: 'Dela Gothic One', cursive;}
+ 
+
+ img {display: block;
+        width: 50%;
+        margin:auto;
+        border-radius: 50%;
+        border: 3px solid green;
+        }
+         
+table{border: 1px solid darkgreen;
+        border-collapse: collapse;
+        }
+    
+tr {border: 1px solid darkgreen;
+        border-collapse: collapse;}
+
+.CIT:nth-child(odd) {background-color: red;}
+
+.COE:nth-child(odd) {background-color: maroon;}
+    
+.CTE:nth-child(odd) {background-color: rgb(50, 50, 243);}
+     
+td {border: 1px solid darkgreen;
+border-collapse: collapse;}
+
+span {position: fixed;
+bottom:  1%;
+left: 40%;
+background-color: green;
+color: white;
+font-family: 'Dela Gothic One', cursive;}
+
